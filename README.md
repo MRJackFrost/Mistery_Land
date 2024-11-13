@@ -1,7 +1,9 @@
 # Mistery_Land
- Desenvolvimento do Projeto
+Desenvolvimento do Projeto
+
 MisteryLands
-Bruno da Cunha Martins
+
+Bruno Martins
 
 Lógica:
  No desenvolvimento do jogo foi feito alguns códigos principais que fazem o jogo rodar, temos duas instâncias que iniciam na primeira Cena de Menu sendo um “GameManager” e um “SoundManager”, em cada cena eu tenho um “SoundCheck” para controlar as músicas e efeitos dentro da instância do SoundManager.
