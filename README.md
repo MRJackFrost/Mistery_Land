@@ -69,14 +69,6 @@
 <ul>
   <li><strong>Clean Code:</strong> nomes descritivos, classes coesas, responsabilidades claras.</li>
   <li><strong>SOLID:</strong> especialmente <em>Single Responsibility</em> e <em>Open/Closed</em>.</li>
-  <li><strong>Separação de camadas:</strong> 
-    <ul>
-      <li><em>Domain</em> (regras de negócio do combate, stats, turnos),</li>
-      <li><em>Application</em> (orquestração/serviços),</li>
-      <li><em>Presentation</em> (UI, efeitos, input),</li>
-      <li><em>Infrastructure</em> (persistência, loaders).</li>
-    </ul>
-  </li>
   <li><strong>Eventos</strong> (C# events/UnityEvent) para desacoplar UI e lógica.</li>
 </ul>
 
