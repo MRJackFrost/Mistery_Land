@@ -77,7 +77,6 @@
       <li><em>Infrastructure</em> (persistência, loaders).</li>
     </ul>
   </li>
-  <li><strong>Scriptable Objects</strong> para dados de personagens, inimigos, habilidades.</li>
   <li><strong>Eventos</strong> (C# events/UnityEvent) para desacoplar UI e lógica.</li>
 </ul>
 
