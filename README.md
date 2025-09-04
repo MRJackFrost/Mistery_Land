@@ -33,7 +33,6 @@
   <li><a href="#gameplay">Gameplay & Mecânicas</a></li>
   <li><a href="#controles">Controles</a></li>
   <li><a href="#arquitetura">Arquitetura & Padrões</a></li>
-  <li><a href="#estrutura">Estrutura de Pastas</a></li>
   <li><a href="#rodar">Como Abrir, Rodar e Buildar</a></li>
   <li><a href="#licenca">Licença</a></li>
 </ol>
@@ -81,22 +80,6 @@
   <li><strong>Scriptable Objects</strong> para dados de personagens, inimigos, habilidades.</li>
   <li><strong>Eventos</strong> (C# events/UnityEvent) para desacoplar UI e lógica.</li>
 </ul>
-
-<h2 id="estrutura">🗂️ Estrutura de Pastas (sugerida)</h2>
-<pre><code>Assets/
-  _Project/
-    Art/
-    Audio/
-    Prefabs/
-    Scenes/
-    Scripts/
-      Application/
-      Domain/
-      Infrastructure/
-      Presentation/
-      Tests/
-    Settings/
-</code></pre>
 
 <h2 id="rodar">🚀 Como Abrir, Rodar e Buildar</h2>
 <ol>
